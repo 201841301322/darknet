@@ -1,4 +1,4 @@
-classes=497
+classes=488
 train  = data/train.txt
 valid  = data/train.txt
 labels = data/chinese_label.names
